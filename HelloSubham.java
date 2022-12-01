@@ -2,7 +2,10 @@ public class HelloVaman {
   
     public static void main(String args[]){  
 
-     System.out.println("Hoii Subham!");  
+
+     System.out.println("Heyyyy Subham!");  
+
+
 
 
     }  
